@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<integer>1</integer>
+		<key>imgName</key>
+		<string>manual_gongzi_before</string>
+		<key>title</key>
+		<string>工资</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>2</integer>
+		<key>imgName</key>
+		<string>manual_jiangjin_before</string>
+		<key>title</key>
+		<string>奖金</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>3</integer>
+		<key>imgName</key>
+		<string>manual_butie_before</string>
+		<key>title</key>
+		<string>补贴</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>4</integer>
+		<key>imgName</key>
+		<string>manual_zhongjiang_before</string>
+		<key>title</key>
+		<string>中奖</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>5</integer>
+		<key>imgName</key>
+		<string>manual_renqing_before</string>
+		<key>title</key>
+		<string>礼金人情</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>6</integer>
+		<key>imgName</key>
+		<string>manual_licai_before</string>
+		<key>title</key>
+		<string>理财收入</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<integer>7</integer>
+		<key>imgName</key>
+		<string>manual_qita_before</string>
+		<key>title</key>
+		<string>其他</string>
+	</dict>
+</array>
+</plist>
